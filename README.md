@@ -35,9 +35,7 @@ yarn install
 To start the development server:
 
 ```bash
-npm start
-# or
-yarn start
+ionic serve
 ```
 
 The application will be available at `http://localhost:8100`.
