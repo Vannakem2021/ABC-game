@@ -2,7 +2,7 @@
 
 An interactive alphabet learning application built with Ionic and React. This app displays all the letters of the alphabet (A-Z) and shows related images when a letter is clicked. It also features voice pronunciation capabilities using the Web Speech API.
 
-![ABC Game Screenshot](../screenshot/Screenshot%202025-04-06%20191646.png)
+![ABC Game Screenshot](screenshot/Screenshot%202025-04-06%20191646.png)
 
 ## Features
 
