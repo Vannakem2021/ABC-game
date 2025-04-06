@@ -33,18 +33,6 @@ const Home: React.FC = () => {
                 <IonCol>
                   <IonButton
                     expand="block"
-                    routerLink="/hello"
-                    color="secondary"
-                  >
-                    Hello World Test Page
-                  </IonButton>
-                </IonCol>
-              </IonRow>
-
-              <IonRow>
-                <IonCol>
-                  <IonButton
-                    expand="block"
                     routerLink="/alphabet"
                     color="primary"
                   >
